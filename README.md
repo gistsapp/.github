@@ -1,3 +1,3 @@
 # Gists
 
-![./images/banner.png](banner)
+![banner](./images/banner.png)
